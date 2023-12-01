@@ -17,6 +17,10 @@ struct laptop {
   string harga;
 };
 
+
+
+
+
 void tampilkanMenu() {
   cout << "Pilih operasi yang ingin Anda lakukan:\n";
   cout << "1. Create (Menambahkan data laptop)\n";
